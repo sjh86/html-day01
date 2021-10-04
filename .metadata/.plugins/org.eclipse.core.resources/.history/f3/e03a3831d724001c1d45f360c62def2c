@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table border="1" align="center" height="200" width="300" >
+<caption>표의 병합 기능</caption>
+
+<tr>
+	<tr>
+		<th colspan="5">IT 시간표</th>		
+	</tr>
+	<tr>
+		<td ></td>  <td>401호</td><td>402호</td><td>403호</td><td>404호</td>		
+	</tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr><tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+
+
+
+
+
+
+</body>
+</html>

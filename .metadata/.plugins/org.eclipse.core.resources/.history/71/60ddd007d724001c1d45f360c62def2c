@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<table border="1" align="center" height="200" width="300" bgcolor="khaki">
+<caption>표의 병합 기능</caption>
+
+<tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+	<tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr><tr>
+		<td colspan="2">1</td><td>2</td><td>3</td>			
+	</tr>
+
+
+
+
+
+
+</body>
+</html>
